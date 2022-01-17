@@ -1,5 +1,4 @@
 import argparse
-from types import NoneType
 import requests
 import datetime
 
